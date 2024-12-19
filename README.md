@@ -7,3 +7,6 @@ Housekeeping:
 - Files are subject to change
 
 My first, fully "finished" project. I documented my learning journey to ensure I was on track. The design is basic and kind of a mess, but it's my mess and I quite enjoy using it.
+
+Video:
+https://youtu.be/vSI09b6ELa4
